@@ -1,89 +1,22 @@
-# h1 Heading
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
-
-## Horizontal Rules
+#h1 Why I should ban xorbloxxy from SRP10.
 
 ___
 
-## Emphasis
+1. Because why not?
+2. He is crazy
+3. I am just so kind
+4. It will be his late Christmas present from me
+5. Idk?
 
-**This is bold text**
-__This is bold text__
-*This is italic text*
-_This is italic text_
-~~Strikethrough~~
+___
 
-## Blockquotes
-
-> Blockquotes can also be nested
->> ...by using additional greater-than signs next to each other...
-> > > ...or with spaces between arrows...
-
-## Lists
-
-**Unordered:**
-
-+ Create a list by starting a line with `+`, `-` or `*`
-+ Sub-lists are made by indenting 2 spaces:
-    -Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-    + Fracilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-+ Very easy!
-
-  **Ordered:**
-  1. Loream ipsum dolor sit amet
-  2. Consectetur adipiscling elit
-  3. Integer molesite lorem at massa
- 
-## Code
-
-Inline `code`
-
-Indented code
-
-      // Some comments 
-      Line 1 of code
-      Line 2 of code 
-      Line 3 of code
-
-Block code "fences"
-
-```
-Sample text here...
-```
-
-Syntax highlighting 
-``` js
-var foo = function (bar) {
-  return bar++;
-}:
-```
-## Tables
-
-| Option | Description |
+| Option | Tally |
 | ------ | ----------- |
-| data   | path to data files to supply the data that will be passes into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for the dest files. |
+| Yes   | IIII\ IIII\ IIII\ |
+| No | I |
 
-Right aligned columns 
+#h3 So what means yes wins!
 
-| Option  | Description  |
-| ------: | -----------: |
-| data    | path to data files to supply the data that will be passes into templates. |
-| engine  | engine to be used for processing templates. Handlebars is the default. |
-| ext     | extension to be used for the dest files. |
+___
 
-## Links
-[link text](http://dev.nodeca.com)
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-## Images
-![Minion](https://octodex.github.com/images/minion.png)
-
-## The End!
+#h1 BYE ASTRO
