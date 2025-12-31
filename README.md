@@ -1,4 +1,4 @@
-#h1 Why I should ban xorbloxxy from SRP10.
+# Why I should ban xorbloxxy from SRP10.
 
 ___
 
@@ -15,9 +15,9 @@ ___
 | Yes   | IIII\ IIII\ IIII\ |
 | No | I |
 
-#h3 So what means yes wins!
+### So what means yes wins!
 
 ___
 
-#h1 BYE ASTRO
+# BYE ASTRO
 ![Minion](https://octodex.github.com/images/minion.png)
